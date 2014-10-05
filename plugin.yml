@@ -1,0 +1,5 @@
+name: HubJoin
+main: net.snicktrix.HubJoin.HubJoin
+author: Snicktrix
+version: 1.0
+description: HubJoin for mc.snicktrix.net
